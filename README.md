@@ -1,2 +1,2 @@
 # SEIR_MODEL
-Jupyter notebooks from FYP
+Jupyter notebooks from Physics FYP of Daniel Gallagher
